@@ -1,0 +1,4 @@
+﻿port=400 node start   端口更改
+
+
+npm install express-generator --save-dev -g  安装 express应用生成器
